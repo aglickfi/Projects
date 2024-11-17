@@ -1,0 +1,1 @@
+/mnt/c/Users/aglickfi/bernoulli_distrinution_vs_experiment/bernoulli_distribution_vs_experiment-/test_code/target/debug/test_code: /mnt/c/Users/aglickfi/bernoulli_distrinution_vs_experiment/bernoulli_distribution_vs_experiment-/test_code/src/main.rs
