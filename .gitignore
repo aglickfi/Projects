@@ -1,0 +1,21 @@
+# Cargo's target directory
+/target/
+
+# Ignoring cargo.lock for libraries is usually a good idea
+# but keep it for binary projects
+# Cargo.lock
+
+# If you use rustfmt or rust-analyzer, you might want to ignore their settings files
+.rustfmt.toml
+.rust-analyzer.json
+
+# Ignore the built-in IDE folders and configuration files, such as those used by VS Code
+.vscode/
+
+# Ignore temporary or backup files
+*~
+*.swp
+*.swo
+
+# Ignore the IntelliJ IDE configuration files
+.idea/

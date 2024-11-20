@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "bernoulli",
+    "test_code"
+]
